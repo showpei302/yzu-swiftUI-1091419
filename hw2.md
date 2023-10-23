@@ -44,6 +44,7 @@ struct ContentView: View {
     
 ```
 
+
 <img width="100%"  src="hw2demo.PNG">
 
-https://www.youtube.com/watch?v=eGJ6S09a1PI
+[hw2demo](https://www.youtube.com/watch?v=eGJ6S09a1PI)
