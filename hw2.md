@@ -44,4 +44,4 @@ struct ContentView: View {
     
 ```
 
-<iframe width="560" height="315" src="hw2demo.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="hw2demo" frameborder="0" allowfullscreen></iframe>
