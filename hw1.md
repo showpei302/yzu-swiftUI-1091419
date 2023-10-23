@@ -40,4 +40,4 @@ struct ContentView: View {
     
 ```
 
-<img width="40%"  src="IMG_0063.PNG">
+<img width="100%"  src="IMG_0063.PNG">
