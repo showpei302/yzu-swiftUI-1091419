@@ -145,4 +145,4 @@ struct GameListView: View{
   
 ```
 
-[hw4demo]([https://www.youtube.com/watch?v=eGJ6S09a1PI](https://youtu.be/AtpBDaDq89M?si=yJJwurzhN-IgDKL4)https://youtu.be/AtpBDaDq89M?si=yJJwurzhN-IgDKL4)
+[hw4demo](https://youtu.be/AtpBDaDq89M?si=yJJwurzhN-IgDKL4)
